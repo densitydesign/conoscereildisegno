@@ -4491,7 +4491,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb113cf737f0de43846a2_PPNeueMontreal-Italic.otf")
+  src: url("../assets/otf/62ebb113cf737f0de43846a2_PPNeueMontreal-Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -4499,7 +4499,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal book";
-  src: url("../assets/imgs/62ebb113187ea8e0dec79a5b_PPNeueMontreal-Book.otf")
+  src: url("../assets/otf/62ebb113187ea8e0dec79a5b_PPNeueMontreal-Book.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -4507,7 +4507,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb1132299ac6e0679652d_PPNeueMontreal-BoldItalic.otf")
+  src: url("../assets/otf/62ebb1132299ac6e0679652d_PPNeueMontreal-BoldItalic.otf")
     format("opentype");
   font-weight: 700;
   font-style: italic;
@@ -4515,7 +4515,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb114ee89635dce187077_PPNeueMontreal-ThinItalic.otf")
+  src: url("../assets/otf/62ebb114ee89635dce187077_PPNeueMontreal-ThinItalic.otf")
     format("opentype");
   font-weight: 100;
   font-style: italic;
@@ -4523,7 +4523,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb113187ea874dec79a5c_PPNeueMontreal-Light.otf")
+  src: url("../assets/otf/62ebb113187ea874dec79a5c_PPNeueMontreal-Light.otf")
     format("opentype");
   font-weight: 300;
   font-style: normal;
@@ -4531,7 +4531,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb113b4e31a2bca8edff2_PPNeueMontreal-Medium.otf")
+  src: url("../assets/otf/62ebb113b4e31a2bca8edff2_PPNeueMontreal-Medium.otf")
     format("opentype");
   font-weight: 500;
   font-style: normal;
@@ -4539,7 +4539,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb1140e07f1813bd1c3aa_PPNeueMontreal-Regular.otf")
+  src: url("../assets/otf/62ebb1140e07f1813bd1c3aa_PPNeueMontreal-Regular.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -4547,7 +4547,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb113826f8a501d92e2ce_PPNeueMontreal-Bold.otf")
+  src: url("../assets/otf/62ebb113826f8a501d92e2ce_PPNeueMontreal-Bold.otf")
     format("opentype");
   font-weight: 700;
   font-style: normal;
@@ -4555,7 +4555,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("../assets/imgs/62ebb114826f8a2d4392e2da_PPNeueMontreal-Thin.otf")
+  src: url("../assets/otf/62ebb114826f8a2d4392e2da_PPNeueMontreal-Thin.otf")
     format("opentype");
   font-weight: 100;
   font-style: normal;
