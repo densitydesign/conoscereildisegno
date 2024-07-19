@@ -4395,7 +4395,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c3084187c54e4b694d0224_HKGrotesk-Italic.ttf")
+  src: url("../assets/imgs/62c3084187c54e4b694d0224_HKGrotesk-Italic.ttf")
     format("truetype");
   font-weight: 400;
   font-style: italic;
@@ -4403,7 +4403,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841270c7981bb896098_HKGrotesk-Light.ttf")
+  src: url("../assets/imgs/62c30841270c7981bb896098_HKGrotesk-Light.ttf")
     format("truetype");
   font-weight: 300;
   font-style: normal;
@@ -4411,7 +4411,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841b44ea90510964f7d_HKGrotesk-MediumItalic.ttf")
+  src: url("../assets/imgs/62c30841b44ea90510964f7d_HKGrotesk-MediumItalic.ttf")
     format("truetype");
   font-weight: 500;
   font-style: italic;
@@ -4419,7 +4419,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841507d238b7cd9523c_HKGrotesk-Regular.ttf")
+  src: url("../assets/imgs/62c30841507d238b7cd9523c_HKGrotesk-Regular.ttf")
     format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -4427,7 +4427,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c308410babd5793ace12b9_HKGrotesk-Medium.ttf")
+  src: url("../assets/imgs/62c308410babd5793ace12b9_HKGrotesk-Medium.ttf")
     format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -4435,7 +4435,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c308418758bb02569589a3_HKGrotesk-SemiBoldItalic.ttf")
+  src: url("../assets/imgs/62c308418758bb02569589a3_HKGrotesk-SemiBoldItalic.ttf")
     format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -4443,7 +4443,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841926d5876bd0b3f72_HKGrotesk-BoldItalic.ttf")
+  src: url("../assets/imgs/62c30841926d5876bd0b3f72_HKGrotesk-BoldItalic.ttf")
     format("truetype");
   font-weight: 700;
   font-style: italic;
@@ -4451,7 +4451,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c308417dace2482940cee6_HKGrotesk-LightItalic.ttf")
+  src: url("../assets/imgs/62c308417dace2482940cee6_HKGrotesk-LightItalic.ttf")
     format("truetype");
   font-weight: 300;
   font-style: italic;
@@ -4459,7 +4459,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841568183783eae306d_HKGrotesk-Bold.ttf")
+  src: url("../assets/imgs/62c30841568183783eae306d_HKGrotesk-Bold.ttf")
     format("truetype");
   font-weight: 700;
   font-style: normal;
@@ -4467,7 +4467,7 @@ a {
 }
 @font-face {
   font-family: "Hkgrotesk";
-  src: url("/assets/imgs/62c30841b3c31837c4cb7a48_HKGrotesk-SemiBold.ttf")
+  src: url("../assets/imgs/62c30841b3c31837c4cb7a48_HKGrotesk-SemiBold.ttf")
     format("truetype");
   font-weight: 600;
   font-style: normal;
@@ -4475,7 +4475,7 @@ a {
 }
 @font-face {
   font-family: "Font Awesome Solid";
-  src: url("/assets/imgs/62e2885b0ce51a7a49f67ceb_fa-solid-900.ttf")
+  src: url("../assets/imgs/62e2885b0ce51a7a49f67ceb_fa-solid-900.ttf")
     format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -4483,7 +4483,7 @@ a {
 }
 @font-face {
   font-family: "Font Awesome Regular";
-  src: url("/assets/imgs/62e2885bc34dfc2599ca989d_fa-regular-400.ttf")
+  src: url("../assets/imgs/62e2885bc34dfc2599ca989d_fa-regular-400.ttf")
     format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -4491,7 +4491,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb113cf737f0de43846a2_PPNeueMontreal-Italic.otf")
+  src: url("../assets/imgs/62ebb113cf737f0de43846a2_PPNeueMontreal-Italic.otf")
     format("opentype");
   font-weight: 400;
   font-style: italic;
@@ -4499,7 +4499,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal book";
-  src: url("/assets/imgs/62ebb113187ea8e0dec79a5b_PPNeueMontreal-Book.otf")
+  src: url("../assets/imgs/62ebb113187ea8e0dec79a5b_PPNeueMontreal-Book.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -4507,7 +4507,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb1132299ac6e0679652d_PPNeueMontreal-BoldItalic.otf")
+  src: url("../assets/imgs/62ebb1132299ac6e0679652d_PPNeueMontreal-BoldItalic.otf")
     format("opentype");
   font-weight: 700;
   font-style: italic;
@@ -4515,7 +4515,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb114ee89635dce187077_PPNeueMontreal-ThinItalic.otf")
+  src: url("../assets/imgs/62ebb114ee89635dce187077_PPNeueMontreal-ThinItalic.otf")
     format("opentype");
   font-weight: 100;
   font-style: italic;
@@ -4523,7 +4523,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb113187ea874dec79a5c_PPNeueMontreal-Light.otf")
+  src: url("../assets/imgs/62ebb113187ea874dec79a5c_PPNeueMontreal-Light.otf")
     format("opentype");
   font-weight: 300;
   font-style: normal;
@@ -4531,7 +4531,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb113b4e31a2bca8edff2_PPNeueMontreal-Medium.otf")
+  src: url("../assets/imgs/62ebb113b4e31a2bca8edff2_PPNeueMontreal-Medium.otf")
     format("opentype");
   font-weight: 500;
   font-style: normal;
@@ -4539,7 +4539,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb1140e07f1813bd1c3aa_PPNeueMontreal-Regular.otf")
+  src: url("../assets/imgs/62ebb1140e07f1813bd1c3aa_PPNeueMontreal-Regular.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -4547,7 +4547,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb113826f8a501d92e2ce_PPNeueMontreal-Bold.otf")
+  src: url("../assets/imgs/62ebb113826f8a501d92e2ce_PPNeueMontreal-Bold.otf")
     format("opentype");
   font-weight: 700;
   font-style: normal;
@@ -4555,7 +4555,7 @@ a {
 }
 @font-face {
   font-family: "Ppneuemontreal";
-  src: url("/assets/imgs/62ebb114826f8a2d4392e2da_PPNeueMontreal-Thin.otf")
+  src: url("../assets/imgs/62ebb114826f8a2d4392e2da_PPNeueMontreal-Thin.otf")
     format("opentype");
   font-weight: 100;
   font-style: normal;
